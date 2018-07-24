@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Anime Favorite</string>
+    <string name="app_detail">Detail Anime</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="content_text">Zoids adalah mesin tempur seperti binatang yang digunakan baik dalam penggunaan sehari-hari seperti transportasi, dan penggunaan khusus seperti perang. Beberapa jenis Zoids, dikenal sebagai Organoids, adalah Zoids miniatur yang merupakan organisme hidup. Organoids ini memiliki kemampuan untuk menyatu dengan Zoid yang tidak hidup dan membuatnya jauh lebih kuat.</string>
+    <string name="rating">Rating</string>
+    <string name="total_episode">Total Episode</string>
+    <string name="status">Status</string>
+    <string name="diskripsi">Diskripsi</string>
+    <string name="status_anime">Tamat</string>
+    <string name="jumlah_episode">67</string>
+    <string name="nilai_rating">7.47</string>
+</resources>
